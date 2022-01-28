@@ -1,6 +1,6 @@
 <template>
     <div class="scoreboard">
-        Punktów: {{points}}
+        Pytanie: {{stage}}/{{questions.length}}, Punktów: {{points}}
     </div>
     <div class="box">
         <h1 class="question" @dblclick="getQuestion"> {{ currentQuestion.question }} </h1>
@@ -17,6 +17,7 @@ import questions from '~/public/questions.json'
 const randomizer = array => array.map(a => ({ sort: Math.random(), value: a })).sort((a, b) => a.sort - b.sort).map(a => a.value)
 
 const points = ref(0)
+const stage = ref(1)
 
 const currentQuestion = ref({
     question: null,
@@ -25,7 +26,7 @@ const currentQuestion = ref({
 })
 
 function getQuestion(){
-    if(document.querySelector('.question')){
+    if(process.client && document.querySelector('.question')){
         document.querySelector('.question').classList.remove("clickable")
     }
     let randomQuestion = questions[Math.floor(Math.random() * questions.length)]
@@ -40,6 +41,7 @@ const checkAnswer = (index, event) => {
     if(index === currentQuestion.value.goodAnswerId){
         event.target.classList.add("good")
         points.value++
+        stage.value++
         currentQuestion.value.question = `✔ ${currentQuestion.value.question} [ ⏭ ]`
         document.querySelector('.question').classList.add("clickable")
     }else{
