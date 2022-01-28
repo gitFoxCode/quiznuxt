@@ -60,6 +60,7 @@ body{
 }
 .box{
     width: 1000px;
+    max-width: 100vw;
     line-height: 200%;
 }
 .question{
