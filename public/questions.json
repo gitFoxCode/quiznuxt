@@ -1,0 +1,1394 @@
+[
+    {
+        "question": "W którym wiązaniu nie biorą bezpośredniego udziału elektrony walencyjne: wiązanie",
+        "answers": [
+            "wiązanie sił dyspersyjnych",
+            "wiązanie jonowe",
+            "wiązanie atomowe spolaryzowane",
+            "wiązanie metaliczne", 
+            "wiązanie atomowe niespolaryzowane"
+        ]
+    },{
+        "question": "Ze spadkiem różnicy elektroujemności między atomami wzrasta możliwość utworzenia",
+        "answers": [
+            "wiązania kowalencyjnego",
+            "wiązania jonowego",
+            "wiązania metalicznego",
+            "wiązania spolaryzowanego", 
+            "wiązania van der Waalsa"
+        ]
+    },{
+        "question": "Zdecydowana większość metali krystalizuje w następujących ukladach krystalograficznych:",
+        "answers": [
+            "Heksagonalnym lub regularnym",
+            "Regularnym lub tetragonalnym",
+            "Regularnym, rombowym lub heksagonalnym",
+            "Heksagonalnym lub tetragonalnym", 
+            "Regularnym, tetragonalnym lub rombowym"
+        ]
+    },{
+        "question": "Parametry sieciowe (a =/= b =/= c) i kqtowe (a = B = 90°; y =/= 90°) odnoszą się do:",
+        "answers": [
+            "Komórki elementarnej układu jednoskośnego", 
+            "Komórki elementarnej układu trygonalnego",
+            "Komórki elementarnej układu romboedrycznego",
+            "Komórki elementarnej układu heksagonalnego",
+            "Komórki elementarnej układu rombowego"
+        ]
+    },{
+        "question": "Które z poniższych stwierdzeń na temat sieci i komórek elementarnych jest niepoprawne?",
+        "answers": [
+            "Podstawy komórek elementarnych stanowią proste figury: trójkąty, kwadraty i prostokąty",
+            "Rodzaj i typ sieci przestrzennej są jednoznacznie określone przez ich komórki elementarne",
+            "Sieci mogą być prymitywne oraz centrowane przestrzennie, ściennie lub na podstawach",
+            "Komórki elementarne stanowią najmniejszy powtarzalny motyw przestrzenny w sieci",
+            "Różne możliwe kształty komórek elementarnych definiują siedem układów krystalograficznych"
+        ]
+    },{
+        "question": "Liczba atomów na komórkę elementarną w strukturze RPC (A2) oraz RSC (A1) wynosi odpowiednio:",
+        "answers": [
+            "2 oraz 4 atomy",
+            "4 oraz 6 atomów",
+            "w obu strukturach po 4 atomy",
+            "w obu strukturach po 2 atomy", 
+            "2 oraz 6 atomów"
+        ]
+    },{
+        "question": "Luki oktaedryczne w komórce elementarnej sieci RPC (A2) znajdują się:",
+        "answers": [
+            "na środkach ścian i na środkach krawędzi komórki",
+            "na krawędziach sześcianu, w odległości (1/4) ich długości od naroży",
+            "w połowie, tzn. w (1/2) długości krawędzi sześcianu",
+            "w objętości komórki, w (1/4) długości przekątnej sześcianu od naroży", 
+            "na ścianach, w (1/4) długości ich przekątnej od naroża"
+        ]
+    },{
+        "question": "Które stwierdzenie dotyczące kierunków/prostych sieciowych jest niepoprawne?",
+        "answers": [
+            "rodzinę prostych sieciowych charakteryzuje jednakowa gęstość obsadzenia przez węzły",
+            "wskaźniki prostych sieciowych określają trzy liczby całkowite u, v, w, pierwsze względem siebie",
+            "proste sieciowe równoległe do siebie mają takie same wskaźniki i tworzą rodzinę prostych",
+            "wskaźniki prostych równoległych są w nawiasach kwadratowych a rodziny prostych w trójkątnych ", 
+            "wszystkie wyżej wymienione stwierdzenia są prawdziwe"
+        ]
+    },{
+        "question": "Jaka jest orientacja wektora Burgersa względem linii dyslokacji mieszanej:",
+        "answers": [
+            "kąt między wektorem Burgersa a linią dyslokacji jest dowolny i różny od 0⁰ i 90⁰",
+            "kąt między wektorem Burgersa a linią dyslokacji wynosi 45⁰",
+            "wektor Burgersa jest równoległy (0⁰) do linii dyslokacji",
+            "wektor Burgersa jest prostopadły (90⁰) do linii dyslokacji", 
+            "wektor Burgersa jest równolegly"
+        ]
+    },{
+        "question": "Która granica międzyfazowa ma najniższą energię:",
+        "answers": [
+            "w pełni koherentna granica",
+            "granica koherentna z dopasowaniem sprężystym",
+            "granica częściowo koherentna",
+            "granica niekoherentna", 
+            "koherencja w praktyce nie ma wpływu na energię"
+        ]
+    },{
+        "question": "Dyslokacja z którym wektorem Burgersa NIE jest poślizgowa?",
+        "answers": [
+            "b = a/3<111>",
+            "b = a/2<111>",
+            "b = a/2<110>",
+            "b = a/6<112>", 
+            "wszystkie są poślizgowe"
+        ]
+    },{
+        "question": "Który proces NIE występuje podczas odkształcenia plastycznego na zimno?",
+        "answers": [
+            "spadek energii zmagazynowanej",
+            "umocnienie odkształceniowe",
+            "wzrost gęstości dyslokacji",
+            "zmiana kształtu ziaren", 
+            "pojawienie się pasm odkształcenia"
+        ]
+    },{
+        "question": "Termin system poślizgu oznacza",
+        "answers": [
+            "kombinację płaszczyzny i kierunku o najgęstszym rozmieszczeniu atomów",
+            "zespół kierunków krystalograficznych wzdłuż których atomy się stykają",
+            "podstawowy mechanizm odkształcenia plastycznego na zimno",
+            "zespół płaszczyzn krystalograficznych o najgęstszym wypełnieniu atomami"
+        ]
+    },{
+        "question": "Które z poniższych stwierdzeń dotyczących bliźniaków jest fałszywe?",
+        "answers": [
+            "bliźniaki wyżarzania tworzą się w metalach o wysokiej energii błędu ułożenia",
+            "bliźniaki rekrystalizacji powstają podczas wyżarzania",
+            "bliźniaki mechaniczne powstają podczas odkształcenia plastycznego",
+            "bliźniaki odkształcenia często występują w strukturze HZ (A3)", 
+            "bliźniaki wyżarzania są najczęściej obserwowane w strukturze RSC (A1)"
+        ]
+    },{
+        "question": "Poligonizacja stanowi proces, który przebiega w trakcie:",
+        "answers": [
+            "zdrowienia wysokotemperaturowego",
+            "ciągłego rozrostu ziaren",
+            "rekrystalizacji pierwotnej",
+            "rekrystalizacji wtórnej", 
+            "zdrowienia niskotemperaturowego"
+        ]
+    },{
+        "question": "W jaki sposób obliczana jest twardość Brinella?",
+        "answers": [
+            "ze stosunku siły nacisku do powierzchni bocznej odcisku",
+            "w oparciu o pomiar naprężenia i średnicy odcisku",
+            "na podstawie pomiaru głębokości wnikania wgłębnika",
+            "ze stosunku siły obciążającej do średnicy odcisku", 
+            "w oparciu o pomiar naprężenia i głębokości odcisku"
+        ]
+    },{
+        "question": "Które z wymienionych stwierdzeń jest nieprawdziwe?",
+        "answers": [
+            "obróbka cieplna zawsze zmniejsza twardość materiału",
+            "międzywęzłowe roztwory stałe są twardsze niż substytucyjne",
+            "stopy dwufazowe są twardsze niż stopy jednofazowe",
+            "dodatek stopowy zwiększa twardość czystego metalu"
+        ]
+    },{
+        "question": "Jednostki której wielkości wykorzystuje się w ocenie udarność?",
+        "answers": [
+            "energii",
+            "naprężenia",
+            "siły",
+            "odkształcenia", 
+            "masy"
+        ]
+    },{
+        "question": "Który proces jest związany z powolnym wzrostem odkształcenia plastycznego pod wpływem naprężeń?",
+        "answers": [
+            "pełzanie",
+            "pękanie plastyczne",
+            "zginanie",
+            "wyciskanie na gorąco", 
+            "pękanie"
+        ]
+    },{
+        "question": "Atomy substytucyjne i atomy międzywęzłowe powodują w strukturze RPC (A2) odpowiednio:",
+        "answers": [
+            "w obu przypadkach symetryczne zniekształcenie sieci",
+            "symetryczne i niesymetryczne zniekształcenie sieci",
+            "niesymetryczne i symetryczne zniekształcenie sieci",
+            "w obu przypadkach nie symetryczne zniekształcenie sieci"
+        ]
+    },{
+        "question": "Równanie Halla-Petcha podaje zależność między wielkością ziarna a następującą wielkością:",
+        "answers": [
+            "granicą plastyczności",
+            "odpornością na pękanie",
+            "wartością udarności",
+            "wytrzymałością na rozciąganie", 
+            "wartością odkształcenia"
+        ]
+    },{
+        "question": "Zjawisko występowania tych samych wartości danej wielkości fizycznej we wszystkich kierunkach to: ",
+        "answers": [
+            "izotropia",
+            "izomeria ",
+            "izotypia",
+            "izometria", 
+            "izomorfizm"
+        ]
+    },{
+        "question": "Najwyższe stężenie atomów rozpuszczonych w roztworze stałym w określonej temperaturze to:",
+        "answers": [
+            "rozpuszczalność graniczna",
+            "zmienna rozpuszczalność",
+            "roztwór stały graniczny",
+            "roztwór stały ciągły", 
+            "przesycony roztwór stały"
+        ]
+    },{
+        "question": "Względne udziały faz w określonej temperaturze dla danego składu stopu określa:",
+        "answers": [
+            "reguła dźwigni",
+            "linia konody",
+            "linia solwus",
+            "reguła faz"
+        ]
+    },{
+        "question": "W podeutektycznym stopie pierwiastków A i B o ograniczonej wzajemnej rozpuszczalności mikrostruktura składa się z:",
+        "answers": [
+            "pierwotnych kryształów α i eutektyki (α+β)",
+            "pierwotnych kryształów β i eutektyki (α+β) ",
+            "pierwotnych kryształów A i eutektyki (A+β)",
+            "pierwotnych kryształów α i eutektyki (α+B)", 
+            "pierwotnych kryształów α i eutektyki (α+B)"
+        ]
+    },{
+        "question": "Na czym polega przemiana perytektyczna przy chłodzeniu:",
+        "answers": [
+            "z roztworu ciekłego i fazy stałej w określonej temperaturze tworzy się nowa faza stała",
+            "z roztworu ciekłego w określonej temperaturze tworzy się nowy roztwór ciekły i faza stała",
+            "z roztworu ciekłego w określonej temperaturze tworzą się równocześnie dwie fazy stałe",
+            "z roztworu ciekłego i fazy stałej w określonej temperaturze tworzy się nowy roztwór ciekły"
+        ]
+    },{
+        "question": "Który wykres równowagi przedstawia pełną wzajemną rozpuszczalność składników?",
+        "answers": [
+            "Cu-Ni",
+            "Al-Cu",
+            "Pb-Sn",
+            "Al-Si", 
+            "Cu-Zn"
+        ]
+    },{
+        "question": "Zawartość miedzi w utwardzanych stopach na bazie aluminium wynosi:",
+        "answers": [
+            "w zakresie 2,0 – 4,8%",
+            "w zakresie 1,2 –2,5%",
+            "w zakresie 5,2 – 6,5%",
+            "w zakresie 6,0 – 7,5%", 
+            "w zakresie 8,0 – 10,5%"
+        ]
+    },{
+        "question": "Ledeburyt przemieniony jest to:",
+        "answers": [
+            "mieszanina eutektoidalna ferrytu i cementytu",
+            "mieszanina eutektyczna perlitu i cementytu",
+            "mieszanina eutektoidalna perlitu i cementytu",
+            "mieszanina eutektyczna austenitu i cementytu", 
+            "mieszanina eutektyczna austenitu i ferrytu"
+        ]
+    },{
+        "question": "W strukturze którego z wymienionych stopów NIE występuje perlit?",
+        "answers": [
+            "surówka nadeutektyczna ",
+            "surówka podeutektyczna",
+            "stal podeutektoidalna",
+            "stal nadeutektoidalna", 
+            "występuje we wszystkich"
+        ]
+    },{
+        "question": "Które stwierdzenie dotyczące niekorzystnej roli siarki w stali jest nieprawdziwe?",
+        "answers": [
+            "normalna zawartość siarki w stali wynosi poniżej 0,1%",
+            "siarka tworzy siarczek żelazawy FeS o temperaturze topnienia 1190⁰C",
+            "siarczek FeS wchodzi w skład eutektyki o temperaturze topnienia 985⁰C",
+            "osłabienie stali przez eutektykę siarczkową to tzw. kruchość na gorąco", 
+            "wszystkie stwierdzenia dotyczące roli siarki są prawdziwe"
+        ]
+    },{
+        "question": "Żeliwa ciągliwe otrzymuje się w wyniku:",
+        "answers": [
+            "wyżarzania grafityzującego odlewów surówek białych",
+            "hartowania i odpuszczania odlewów z żeliwa szarego",
+            "procesu modyfikacji żeliwa szarego zwykłego",
+            "wytopu zawierającego zwiększoną część złomu stalowego"
+        ]
+    },{
+        "question": "Które stwierdzenie dotyczące steadytu w strukturze żeliwa szarego jest nieprawdziwe?",
+        "answers": [
+            "pogarsza lejność",
+            "wszystkie są prawdziwe",
+            "zwiększa rzadkopłynność",
+            "poprawia odporność na ścieranie", 
+            "zwiększa twardość"
+        ]
+    },{
+        "question": "Normalizowanie to obróbka cieplna stali prowadząca do:",
+        "answers": [
+            "otrzymania małego równoosiowego ziarna",
+            "rekrystalizacji materiału odkształconego",
+            "wytworzenia określonej tekstury krystalograficznej",
+            "ujednorodnienia składu chemicznego", 
+            "uzyskania jednolitej struktury gruboziarnistej"
+        ]
+    },{
+        "question": "W procesie normalizacji przeprowadza się następujący sposób chłodzenia:",
+        "answers": [
+            "na powietrzu",
+            "w wodzie",
+            "w oleju",
+            "z piecem"
+        ]
+    },{
+        "question": "Odpuszczanie stali polega na:",
+        "answers": [
+            "wyżarzaniu stali uprzednio zahartowanej",
+            "wyżarzaniu stali i studzeniu z piecem",
+            "wyżarzaniu stali odkształconej plastycznie",
+            "wyżarzaniu stali w celu usunięcia naprężeń wewnętrznych", 
+            "wyżarzaniu stali bezpośrednio po odlewaniu"
+        ]
+    },{
+        "question": "Ze wzrostem zawartości węgla w stali ilość austenitu szczątkowego:",
+        "answers": [
+            "wzrasta nieliniowo",
+            "pozostaje stała",
+            "wyraźnie maleje",
+            "zwiększa się liniowo"
+        ]
+    },{
+        "question": "Które z wymienionych stali stopowych zawierają najwięcej węgla?",
+        "answers": [
+            "stale do pracy na zimno",
+            "stale odporne na korozję",
+            "stale do ulepszania cieplnego",
+            "stale sprężynowe", 
+            "stale żarowytrzymałe i żaroodporne"
+        ]
+    },{
+        "question": "Podstawowe pierwiastki stopowe w stalach szybkotnących to:",
+        "answers": [
+            "W, Mo, V, Co oraz Cr",
+            "Ni, Cr, W, V oraz Si",
+            "Ni, Mn, Cu, Co oraz N",
+            "Cr, Si, Ti, Al oraz Mn", 
+            "W, Mn, Si, Ni oraz Al"
+        ]
+    },{
+        "question": "Jaka jest mikrostruktura stali maraging?",
+        "answers": [
+            "martenzyt stopowy + drobnodyspersyjne fazy metaliczne",
+            "martenzyt odpuszczony + drobne wydzielenia węglików",
+            "przesycony austenit umocniony odkształceniowo",
+            "przesycony austenit + drobne wydzielenia węglików", 
+            "martenzyt odpuszczony + austenit szczątkowy"
+        ]
+    },{
+        "question": "Kierunkowe wiązania między atomami obejmują:",
+        "answers": [
+            "wiązania kowalencyjne",
+            "wiązania jonowe",
+            "wiązania metaliczne",
+            "wiązania van der Waalsa"
+        ]
+    },{
+        "question": "Ze wzrostem siły wiązań między atomami w metalach następuje:",
+        "answers": [
+            "wzrost zarówno temperatury topnienia jak i wartości modułu sprężystości",
+            "wzrost temperatury topnienia i spadek wartości modułu sprężystości ",
+            "spadek temperatury topnienia i wzrost wartości modułu sprężystości",
+            "spadek zarówno temperatury topnienia jak i wartości modułu sprężystości"
+        ]
+    },{
+        "question": "Parametry sieciowe (a = b ≠ c) i kątowe (α = β = γ = 90°) odnoszą się do:",
+        "answers": [
+            "Komórki elementarnej układu tetragonalnego",
+            "Komórki elementarnej układu romboedrycznego",
+            "Komórki elementarnej układu regularnego",
+            "Komórki elementarnej układu jednoskośnego", 
+            "Komórki elementarnej układu rombowego"
+        ]
+    },{
+        "question": "Stopień wypełnienia struktury krystalicznej to stosunek:",
+        "answers": [
+            "Objętości zajmowanej przez atomy do objętości komórki elementarnej",
+            "Objętości przestrzeni międzyatomowych do objętości zajmowanej przez atomy ",
+            "Objętości zajmowanej przez atomy do objętości przestrzeni międzyatomowych",
+            "Objętości komórki elementarnej do objętości zajmowanej przez atomy ", 
+            "Objętości przestrzeni międzyatomowych do objętości komórki elementarnej"
+        ]
+    },{
+        "question": "Liczba koordynacyjna dla struktury heksagonalnej zwartej (A3) wynosi:",
+        "answers": [
+            "12 atomów",
+            "6 atomów",
+            "4 atomy",
+            "8 atomów", 
+            "5 atomów"
+        ]
+    },{
+        "question": "Minimalna odległość między atomami w strukturze RPC (A2) wynosi:",
+        "answers": [
+            "Połowę przekątnej przestrzennej komórki elementarnej ( a√3 /2)",
+            "Długość przekątnej ściany komórki elementarnej ( a√2 )",
+            "Długość krawędzi komórki elementarnej ( a )",
+            "Połowę przekątnej ściany komórki elementarnej ( a√2 /2 ) ", 
+            "Długość przekątnej przestrzennej komórki elementarnej ( a√3)"
+        ]
+    },{
+        "question": "Odległość między płaszczyznami typu {122} wynosi:",
+        "answers": [
+            "a/3",
+            "a√5/5",
+            "a√5/3",
+            "a/5", 
+            "a√5/2"
+        ]
+    },{
+        "question": "W przypadku którego rodzaju dyslokacji płaszczyzna poślizgu NIE jest jednoznacznie określona?",
+        "answers": [
+            "dyslokacji krawędziowej",
+            "dyslokacji śrubowej",
+            "dyslokacji mieszanej",
+            "dla wszystkich jest jednoznacznie określona"
+        ]
+    },{
+        "question": "Błąd ułożenia powstały przez wstawienie części płaszczyzny atomowej {111} to:",
+        "answers": [
+            "błąd podwójny",
+            "błąd pojedynczy",
+            "błąd zgodny",
+            "błąd wewnętrzny"
+        ]
+    },{
+        "question": "Która dyslokacja może się poruszać w płaszczyźnie typu {110}?",
+        "answers": [
+            "b = a/2<111>",
+            "b = a/2<110>",
+            "b = a/3<111>",
+            "b = a/6<112>", 
+            "żadna z wymienionych"
+        ]
+    },{
+        "question": "Naprężenie styczne działające w płaszczyźnie i kierunku poślizgu wyraża się wzorem:",
+        "answers": [
+            "τs = σ cosφ cosλ",
+            "τs = G γ",
+            "τs = σ sinφ cosλ ",
+            "τm = G/2π", 
+            "τs = σ cosφ sinλ"
+        ]
+    },{
+        "question": "Które z wymienionych stanowią zespół płaszczyzn poślizgu w strukturze RPC (A2) ?",
+        "answers": [
+            "{110} ; {112} ; {123}",
+            "{100} ; {110} ; {111}",
+            "{100} ; {112} ; {123}",
+            "{110} ; {111} ; {112}", 
+            "{111} ; {112} ; {123}"
+        ]
+    },{
+        "question": "Termin zgniot krytyczny oznacza:",
+        "answers": [
+            "minimalne odkształcenie umożliwiające zajście rekrystalizacji",
+            "wartość odkształcenia odpowiadającą utracie spójności materiału",
+            "wartość odkształcenia odpowiadającą zarodkowaniu mikro-pęknięć",
+            "odkształcenie niezbędne dla rozpoczęcia płynięcia plastycznego"
+        ]
+    },{
+        "question": "Co to jest rekrystalizacja wtórna?",
+        "answers": [
+            "nieciągły i anormalny rozrost ziaren",
+            "jednakowy w całej objętości ciągły wzrost ziaren",
+            "nasilający się rozrost ziaren ze wzrostem temperatury",
+            "istotny rozrost ziarna przy długich czasach wyżarzania ", 
+            "przedłużony proces tworzenie zarodków rekrystalizacji"
+        ]
+    },{
+        "question": "W której metodzie twardość określana jest na podstawie głębokości odcisku?",
+        "answers": [
+            "metoda Rockwella",
+            "metoda Brinella",
+            "metoda Knoopa",
+            "metoda Vickersa", 
+            "metoda Mohsa"
+        ]
+    },{
+        "question": "Jakiemu punktowi na krzywej rozciągania odpowiada tworzenie szyjki?",
+        "answers": [
+            "wytrzymałości na rozciąganie",
+            "górnej granicy plastyczności",
+            "granicy sprężystości",
+            "dolnej granicy plastyczności", 
+            "punktowi zerwania"
+        ]
+    },{
+        "question": "Która zależność między wartością udarności a rodzajem przełomu jest prawdziwa?",
+        "answers": [
+            "przełom plastyczny – wysoka udarność",
+            "przełom kruchy – wysoka udarność",
+            "przełom plastyczny – niska udarność",
+            "nie występuje taka zależność"
+        ]
+    },{
+        "question": "Prawo Hooke’a opisuje:",
+        "answers": [
+            "relację pomiędzy naprężeniem i odkształceniem",
+            "relację pomiędzy wartością siły i przemieszenia",
+            "stosunek odkształceń poprzecznego i podłużnego",
+            "związek między naprężeniem rozciągającym i stycznym", 
+            "stosunek granicy plastyczności do wytrzymałości na rozciąganie"
+        ]
+    },{
+        "question": "Które stwierdzenie dotyczące umocnienia odkształceniowego jest nieprawdziwe?",
+        "answers": [
+            "maleje wraz ze spadkiem średniej drogi swobodnej",
+            "zwiększa się ze wzrostem stopnia odkształcenia",
+            "jest związane ze wzrostem gęstości dyslokacji",
+            "wynika z liczby oddziaływań pomiędzy dyslokacjami"
+        ]
+    },{
+        "question": "Podstawowym mechanizmem umocnienia duraluminium jest:",
+        "answers": [
+            "utwardzanie wydzieleniowe",
+            "umocnienie przez rozdrobnienie ziarna",
+            "umocnienie odkształceniowe",
+            "umocnienie przez roztwór stały", 
+            "utwardzenie przez cząstki obce"
+        ]
+    },{
+        "question": "Który mechanizm oddziaływania dyslokacja-cząstka NIE dotyczy umocnienia?",
+        "answers": [
+            "omijanie cząstek na drodze wspinania dyslokacji",
+            "przecinanie i ścinanie cząstek przez dyslokacje",
+            "omijanie cząstek i tworzenie wokół pętli dyslokacyjnych",
+            "omijanie cząstek na drodze poślizgu poprzecznego"
+        ]
+    },{
+        "question": "Rozpuszczalność pierwiastka stopowego w roztworze stałym",
+        "answers": [
+            "maleje wraz ze wzrostem temperatury",
+            "zwiększa się wraz ze wzrostem temperatury",
+            "zwiększa się wraz ze spadkiem temperatury",
+            "pozostaje stała przy zmianach temperatury"
+        ]
+    },{
+        "question": "Gdy dwa pierwiastki rozpuszczają się wzajemnie w stanie stałym w całym zakresie stężeń to powstaje:",
+        "answers": [
+            "roztwór stały ciągły",
+            "faza międzymetaliczna",
+            "roztwór stały graniczny",
+            "roztwór stały substytucyjny", 
+            "nie występuje taka możliwość"
+        ]
+    },{
+        "question": "W podeutektycznym stopie pierwiastków A i B z brakiem rozpuszczalności B w A i ograniczoną rozpuszczalnością A w B mikrostruktura składa się z:",
+        "answers": [
+            "pierwotnych kryształów A i eutektyki (A+β) ",
+            "pierwotnych kryształów α i eutektyki (α+β)",
+            "pierwotnych kryształów B i eutektyki (α+B)",
+            "pierwotnych kryształów α i eutektyki (α+B)", 
+            "pierwotnych kryształów β i eutektyki (A+β)"
+        ]
+    },{
+        "question": "Które stwierdzenie dotyczące przemian eutektycznej i eutektoidalnej jest nieprawdziwe:",
+        "answers": [
+            "przeciwnie do przemiany eutektoidalnej produkt przemiany eutektycznej to faza stała i ciecz",
+            "obie przemiany eutektyczna i eutektoidalna zachodzą w stałej temperaturze",
+            "produktem obu przemian jest mieszanina kryształów dwóch faz stałych",
+            "przeciwnie do przemiany eutektycznej przemiana eutektoidalna zachodzi w stanie stałym"
+        ]
+    },{
+        "question": "Jaki rodzaj stałego roztworu tworzy się w układzie podwójnym Cu-Ni?",
+        "answers": [
+            "roztwór stały ciągły",
+            "roztwór stały międzywęzłowy",
+            "roztwór stały graniczny",
+            "przesycony roztwór stały", 
+            "wtórny roztwór stały"
+        ]
+    },{
+        "question": "Spośród wszystkich stopów aluminium najlepsze własności wytrzymałościowe wykazuje:",
+        "answers": [
+            "duraluminium",
+            "aldrey",
+            "aluman",
+            "hydronalium", 
+            "silumin"
+        ]
+    },{
+        "question": "Ledeburyt jest to:",
+        "answers": [
+            "mieszanina eutektyczna austenitu i cementytu",
+            "mieszanina eutektyczna austenitu i ferrytu",
+            "mieszanina eutektyczna perlitu i cementytu",
+            "mieszanina eutektoidalna perlitu i cementytu", 
+            "mieszanina eutektoidalna ferrytu i cementytu"
+        ]
+    },{
+        "question": "Tzw. kruchość na zimno w stalach węglowych to rezultat:",
+        "answers": [
+            "utwardzenia ferrytu przez rozpuszczony fosfor",
+            "obniżenia plastyczności stali przez tlenki",
+            "niekorzystnego wpływu azotków żelaza i aluminium",
+            "obniżenia ciągliwości przez wodór rozpuszczony w postaci atomowej", 
+            "tworzenia skupisk atomów azotu wokół dyslokacji"
+        ]
+    },{
+        "question": "Struktura Widmanstattena w stopach żelaza z węglem to:",
+        "answers": [
+            "płytkowe wydzielenia ferrytu na tle perlitu",
+            "płytkowe wydzielenia cementytu na tle perlitu",
+            "struktura dendrytyczna składająca się z ferrytu i cementytu",
+            "iglaste wydzielenia cementytu na tle perlitu", 
+            "płytkowe wydzielenia cementytu na tle ferrytu"
+        ]
+    },{
+        "question": "W strukturze żeliwa szarego zwykłego na tle osnowy metalicznej występują:",
+        "answers": [
+            "wydzielenia grafitu w postaci płatków",
+            "płytkowe wydzielenia cementytu i grafitu",
+            "siatka wydzieleń cementytu i grafitu",
+            "sferoidalne wydzielenia grafitu", 
+            "postrzępione wydzielenia grafitu"
+        ]
+    },{
+        "question": "Które żeliwa NIE zawierają w swojej strukturze cementytu?",
+        "answers": [
+            "ferrytyczne",
+            "ferrytyczno-perlityczne",
+            "perlityczne",
+            "nadperlityczne", 
+            "wszystkie zawierają"
+        ]
+    },{
+        "question": "W przemianie martenzytycznej stali eutektoidalnej zachodzi następująca zmiana struktury:",
+        "answers": [
+            "regularna ściennie centrowana → tetragonalna przestrzennie centrowana (RSC → TPC)", 
+            "regularna ściennie centrowana → regularna przestrzennie centrowana (RSC → RPC)",
+            "regularna przestrzennie centrowana → tetragonalna przestrzennie centrowana (RPC → TPC)",
+            "tetragonalna przestrzennie centrowana → regularna przestrzennie centrowana (TPC → RPC) "
+        ]
+    },{
+        "question": "Wyżarzanie stali w temperaturze 30–50C powyżej linii Ac3 oraz chłodzenie z piecem to:",
+        "answers": [
+            "wyżarzanie normalizujące",
+            "wyżarzanie ujednorodniające",
+            "wyżarzanie zupełne",
+            "wyżarzanie niezupełne", 
+            "wyżarzanie zmiękczające"
+        ]
+    },{
+        "question": "Która struktura NIE jest produktem chłodzenia austenitu?",
+        "answers": [
+            "sorbit",
+            "perlit",
+            "bainit",
+            "troostyt", 
+            "martenzyt"
+        ]
+    },{
+        "question": "Które z wymienionych stali stopowych zawierają najmniej węgla?",
+        "answers": [
+            "stale niskostopowe o podwyższonej wytrzymałości",
+            "stale do pracy na gorąco",
+            "stale łożyskowe",
+            "stale nierdzewne", 
+            "stale szybkotnące"
+        ]
+    },{
+        "question": "Która z wymienionych grup pierwiastków stopowych stabilizuje austenit?",
+        "answers": [
+            "Ni, Mn, Cu, Co oraz N",
+            "W, Mo, Cr, V oraz Si",
+            "Cr, W, Ti, Nb oraz V",
+            "Mo, Cu, Al, Zn oraz Nb", 
+            "Si, Mo, Al, Mn oraz Co"
+        ]
+    },{
+        "question": "Zjawisko tzw. twardości wtórnej wykorzystuje się w:",
+        "answers": [
+            "w stalach szybkotnących",
+            "w stopach aluminium utwardzanych wydzieleniowo",
+            "w stalach typu maraging",
+            "w stalach niskostopowych o podwyższonej wytrzymałości", 
+            "w stalach do ulepszania cieplnego"
+        ]
+    },{
+        "question": "Co powoduje wysoką odporność na ścieranie stali Hadfielda?",
+        "answers": [
+            "umocnienie odkształceniowe",
+            "wydzielenia faz m. metalicznych",
+            "wysokie przesycenie węglem",
+            "silne rozdrobienie ziarna", 
+            "wydzielenia węglików"
+        ]
+    },{
+        "question": "Wiązanie kowalencyjne powstaje, gdy dwa atomy:",
+        "answers": [
+            "dzielą między sobą pary elektronów",
+            "dzielą wzajemnie pojedyncze elektrony",
+            "zyskują i tracą elektrony walencyjne",
+            "tworzą dipole fluktuacyjne", 
+            "dzielą wzajemnie gaz elektronów"
+        ]
+    },{
+        "question": "W wiązaniu spolaryzowanym wspólne pary elektronów są przesunięte w stronę jednego z atomów:",
+        "answers": [
+            "o większej elektroujemności",
+            "z większą liczbą elektronów walencyjnych",
+            "o mniejszej zdolności przyjmowania elektronów",
+            "z mniejszą liczbą elektronów walencyjnych"
+        ]
+    },{
+        "question": "Często stosowane metale nikiel i chrom-α posiadają struktury krystaliczne:",
+        "answers": [
+            "Odpowiednio RSC (A1) i RPC (A2)",
+            "Odpowiednio RPC (A2) i HZ (A3)",
+            "Oba posiadają strukturę RSC (A1)",
+            "Oba posiadają strukturę RPC (A2)", 
+            "Odpowiednio HZ (A3) i RSC (A1)"
+        ]
+    },{
+        "question": "Parametry sieciowe (a ≠ b ≠ c) i kątowe (α = β = γ = 90°) odnoszą się do:",
+        "answers": [
+            "Komórki elementarnej układu rombowego",
+            "Komórki elementarnej układu tetragonalnego",
+            "Komórki elementarnej układu romboedrycznego",
+            "Komórki elementarnej układu regularnego", 
+            "Komórki elementarnej układu jednoskośnego"
+        ]
+    },{
+        "question": "Ułamek wolnych przestrzeni w komórce elementarnej struktury RSC (A1) wynosi:",
+        "answers": [
+            "0.26 objętości",
+            "0.22 objętości",
+            "0.32 objętości",
+            "0.38 objętości", 
+            "0.42 objętości"
+        ]
+    },{
+        "question": "Minimalna odległość pomiędzy atomami w strukturze heksagonalnej zwartej HZ (A2) wynosi:",
+        "answers": [
+            "Długość krawędzi komórki elementarnej (a)",
+            "Połowę wysokości komórki elementarnej (c/2) = a*pierw(2/3)",
+            "Długość dłuższej przekątnej podstawy(a√3)",
+            "Połowę dłuższej przekątnej podstawy (a√3/2)", 
+            "Połowę długość krawędzi komórki elementarnej (a/2)"
+        ]
+    },{
+        "question": "Odległość między płaszczyznami typu {112} wynosi:",
+        "answers": [
+            "a√6/6",
+            "a/4",
+            "a√6/4",
+            "a√3/6", 
+            "a√6/2"
+        ]
+    },{
+        "question": "Luki tetraedryczne w komórce elementarnej sieci RSC (A1) znajdują się:",
+        "answers": [
+            "w objętości komórki, w (1/4) długości przekątnej sześcianu od naroży ",
+            "na krawędziach sześcianu, w odległości (1/4) ich długości od naroży",
+            "w połowie, tzn. w (1/2) długości krawędzi sześcianu",
+            "na ścianach, w (1/4) długości ich przekątnej od naroża", 
+            "na ścianach, w połowie długości krawędzi i odległości (1/4) jej długości"
+        ]
+    },{
+        "question": "Które stwierdzenie NIE jest związane z terminem dyslokacja:",
+        "answers": [
+            "zaburzenie w periodycznym ułożeniu atomów wzdłuż linii ",
+            "względne przemieszczenie płaszczyzn atomowych",
+            "mechanizmu odkształcenia plastycznego na zimno",
+            "efekt ścięcia kryształu wskutek działania naprężeń stycznych", 
+            "wszystkie stwierdzenia są związane z terminem dyslokacja"
+        ]
+    },{
+        "question": "Błąd ułożenia powstały przez usunięcie części płaszczyzny atomowej {111} to:",
+        "answers": [
+            "błąd pojedynczy",
+            "błąd podwójny",
+            "błąd niezgodny",
+            "błąd zewnętrzny"
+        ]
+    },{
+        "question": "Szereg dyslokacji krawędziowych, między ziarnami z małą różnicą orientacji, jest to:",
+        "answers": [
+            "pół-koherentna granica m/fazowa",
+            "niekoherentna granica bliźniacza",
+            "granica nachylenia/daszkowa",
+            "nisko-kątowa granica skręcenia"
+        ]
+    },{
+        "question": "Który z wymienionych stanowi system poślizgu w strukturze RSC (A1) ?",
+        "answers": [
+            "{111} <110>",
+            "{110} <111>",
+            "{110} <110>",
+            "{112} <110>", 
+            "{123} <111>"
+        ]
+    },{
+        "question": "Który czynnik NIE sprzyja procesowi bliźniakowania mechanicznego?",
+        "answers": [
+            "wysoka wartość energii błędu ułożenia",
+            "mała wartość energii błędu ułożenia",
+            "niska temperatura odkształcenia",
+            "duża prędkość odkształcania", 
+            "niższa symetria struktury krystalicznej"
+        ]
+    },{
+        "question": "Gdzie NIE powstają zarodki rekrystalizacji:",
+        "answers": [
+            "na frontach rekrystalizacji",
+            "na przecięciach pasm odkształcenia",
+            "w miejscach przecięcia pasm z granicami",
+            "w pasmach odkształcenia", 
+            "na granicach ziaren"
+        ]
+    },{
+        "question": "Który proces NIE dotyczy 2-go i 3-go etapu rekrystalizacji",
+        "answers": [
+            "następuje zasadniczy spadek gęstości dyslokacji",
+            "maleje energia powierzchniowa granic",
+            "zachodzi normalny i ciągły rozrost ziaren",
+            "występuje anormalny i nieciągły rozrost ziaren", 
+            "rozrost ziaren nasila się ze wzrostem temperatury"
+        ]
+    },{
+        "question": "W jaki sposób obliczana jest twardość Vickersa?",
+        "answers": [
+            "ze stosunku siły obciążającej do średniej przekątnej odcisku",
+            "na podstawie pomiaru głębokości wnikania wgłębnika",
+            "w oparciu o pomiar naprężenia i średniej przekątnej odcisku",
+            "ze stosunku siły nacisku do powierzchni bocznej odcisku", 
+            "w oparciu o pomiar naprężenia i głębokości odcisku"
+        ]
+    },{
+        "question": "Opór jaki materiał stawia zlokalizowanej sile zewnętrznej określa się jako:",
+        "answers": [
+            "twardość",
+            "sprężystość",
+            "ciągliwość",
+            "wytrzymałość", 
+            "udarność"
+        ]
+    },{
+        "question": "Górna granica plastyczności w stalach to rezultat:",
+        "answers": [
+            "obecności w strukturze atomów międzywęzłowych węgla i azotu",
+            "pokonywania oporów sieci przy rozpoczęciu poślizgu dyslokacji",
+            "transmisji poślizgu przez granice wewnętrzne",
+            "zwiększonej liczby oddziaływań pomiędzy dyslokacjami"
+        ]
+    },{
+        "question": "Proporcjonalność odkształcenia postaciowego i naprężenia ścinającego określa:",
+        "answers": [
+            "prawo Hooke'a",
+            "współczynnik Schmida-Boasa",
+            "moduł Younga",
+            "liczba Poissona", 
+            "moduł Kirchoffa"
+        ]
+    },{
+        "question": "Która własność maleje ze wzrostem umocnienia odkształceniowego?",
+        "answers": [
+            "granica plastyczności",
+            "wytrzymałość na rozciąganie",
+            "moduł sprężystości",
+            "wydłużenie względne", 
+            "twardość"
+        ]
+    },{
+        "question": "Najistotniejszy czynnik spadku umocnienia ze wzrostem wielkości ziarna stanowi:",
+        "answers": [
+            "mniejsza liczba oddziaływań podczas poślizgu dyslokacji",
+            "łatwiejszy transfer przez granice w wyniku spiętrzeń z większą liczbą dyslokacji",
+            "mniejsza liczba przeszkód dla ruchu dyslokacji w postaci granic ziaren",
+            "dłuższa średnia droga swobodna dyslokacji wewnątrz ziaren"
+        ]
+    },{
+        "question": "Zależność wartości danej wielkości fizycznej od kierunku krystalograficznego to:",
+        "answers": [
+            "anizotropia",
+            "anizometria",
+            "anizometropia",
+            "aksonometria", 
+            "alotropia"
+        ]
+    },{
+        "question": "Który z poniższych wzorów opisuje regułę faz przy stałym ciśnieniu:",
+        "answers": [
+            "s = n – f + 1",
+            "s = n – 2(f + 1)",
+            "s = n – 2f + 1",
+            "s = 2n – f + 1", 
+            "s = n – f + 2"
+        ]
+    },{
+        "question": "Jaki rodzaj roztworów NIE powstaje na bazie faz międzymetalicznych?",
+        "answers": [
+            "roztwory graniczne",
+            "roztwory ciągłe",
+            "roztwory substytucyjne",
+            "roztwory uporządkowane", 
+            "roztwory międzywęzłowe"
+        ]
+    },{
+        "question": "W nadeutektycznym stopie pierwiastków A i B z ograniczoną rozpuszczalnością B w A i brakiem rozpuszczalności A w B mikrostruktura składa się z:",
+        "answers": [
+            "pierwotnych kryształów B i eutektyki (α+B)",
+            "pierwotnych kryształów α i eutektyki (α+B) ",
+            "pierwotnych kryształów A i eutektyki (A+β) ",
+            "pierwotnych kryształów β i eutektyki (A+β)", 
+            "pierwotnych kryształów α i eutektyki (α+β)"
+        ]
+    },{
+        "question": "Zero zmienny punkt reakcji obejmującej dwie fazy stałe zmieniające się w pojedynczą fazę stałą podczas chłodzenia określa się jako:",
+        "answers": [
+            "punkt perytektoidalny",
+            "punkt eutektoidalny",
+            "punkt eutektyczny",
+            "punkt perytektyczny"
+        ]
+    },{
+        "question": "Stosowana często nazwa stopu miedzi z cynkiem i niklem to:",
+        "answers": [
+            "nowe srebro",
+            "mosiądz",
+            "spiż",
+            "brąz"
+        ]
+    },{
+        "question": "Stop miedzi i którego pierwiastka nie jest brązem?",
+        "answers": [
+            "niklu",
+            "krzemu",
+            "aluminium",
+            "ołowiu", 
+            "cyny"
+        ]
+    },{
+        "question": "W wyniku czego ledeburyt przechodzi w ledeburyt przemieniony?",
+        "answers": [
+            "przemiany austenitu w perlit",
+            "zajścia przemiany eutektycznej",
+            "przemiany austenitu w ferryt",
+            "wydzielania cementytu wtórnego", 
+            "szybkiego chłodzenia austenitu"
+        ]
+    },{
+        "question": "Który składnik struktury uniemożliwia przeróbkę plastyczną na zimno?",
+        "answers": [
+            "austenit",
+            "ferryt",
+            "perlit",
+            "cementyt ", 
+            "ledeburyt"
+        ]
+    },{
+        "question": "Staliwo jest to:",
+        "answers": [
+            "odlewniczy stop żelaza z węglem, o zawartości do ok. 1,5%C ",
+            "odlewniczy stop żelaza z węglem, o zawartości powyżej 2,11%C",
+            "przerobiony plastycznie stop żelaza z węglem, o zawartości do ok. 2,11%C",
+            "odlewniczy stop żelaza z węglem, o maksymalnej zawartości 0,77%C"
+        ]
+    },{
+        "question": "Który rodzaj żeliw szarych otrzymuje się w wyniku wyżarzania:",
+        "answers": [
+            "żeliwa sferoidalne",
+            "żeliwa modyfikowane",
+            "żeliwa ciągliwe",
+            "żeliwa wermikularne", 
+            "żeliwa szare zwykłe"
+        ]
+    },{
+        "question": "Które stwierdzenie dotyczące roli fosforu w żeliwach jest fałszywe?*",
+        "answers": [
+            "zwiększa twardość",
+            "ułatwia grafityzację",
+            "zwiększa rzadkopłynność",
+            "poprawia odporność na ścieranie", 
+            "pogarsza lejność"
+        ]
+    },{
+        "question": "Wyżarzanie stali w temperaturze 30–50C powyżej linii Ac3-Acm oraz chłodzenie na powietrzu to:",
+        "answers": [
+            "wyżarzanie normalizujące",
+            "wyżarzanie ujednorodniające",
+            "wyżarzanie odprężające",
+            "wyżarzanie niezupełne", 
+            "wyżarzanie zupełne"
+        ]
+    },{
+        "question": "Obecność międzywęzłowych atomów węgla istotnie zwiększa twardość:",
+        "answers": [
+            "martenzytu",
+            "bainitu",
+            "austenitu",
+            "cementytu", 
+            "perlitu"
+        ]
+    },{
+        "question": "Która struktura nie może utworzyć się w trakcie odpuszczania?",
+        "answers": [
+            "wszystkie mogą powstać",
+            "martenzyt odpuszczony",
+            "austenit szczątkowy",
+            "sorbit", 
+            "sferoidyt"
+        ]
+    },{
+        "question": "Które stwierdzenie dotyczące przemiany martenzytycznej stanowi nieprawdę?",
+        "answers": [
+            "powstające płytki martenzytu przecinają wyjściowe ziarno austenitu",
+            "przemiana martenzytyczna jest przemianą bezdyfuzyjną i atermiczną",
+            "martenzyt w stalach węglowych ma zwykle postać płytek lub listew",
+            "przemiana zachodzi w przedziale temperatur Ms i Mf ", 
+            "martenzyt powstaje podczas chłodzenia z prędkością krytyczną"
+        ]
+    },{
+        "question": "Które z wymienionych stali stopowych nie należą do stali konstrukcyjnych?",
+        "answers": [
+            "stale zaworowe",
+            "stale sprężynowe",
+            "stale łożyskowe",
+            "stale niskostopowe o podwyższonej wytrzymałości", 
+            "stale do ulepszania cieplnego"
+        ]
+    },{
+        "question": "Podstawowy wskaźnik odporności korozyjnej jest określany w oparciu o korozję?",
+        "answers": [
+            "wżerową",
+            "równomierną",
+            "szczelinową",
+            "międzykrystaliczną", 
+            "naprężeniową"
+        ]
+    },{
+        "question": "Twardość wtórna jest to:",
+        "answers": [
+            "wzrost twardości w czasie odpuszczania stali po hartowaniu ",
+            "wzrost twardości w czasie starzenia stali po przesycaniu",
+            "wzrost twardości wynikający z naprężeń termicznych po hartowaniu",
+            "wzrost twardości w czasie odkształcenia plastycznego na zimno", 
+            "wzrost twardości martenzytu w wyniku przesycenia węglem"
+        ]
+    },{
+        "question": "Jaki rodzaj wiązania powstaje w wyniku przeniesienia elektronów z jednego atomu na drugi?",
+        "answers": [
+            "wiązanie jonowe",
+            "wiązanie van der Waalsa",
+            "wiązanie kowalencyjne",
+            "wiązanie wodorowe", 
+            "wiązanie metaliczne"
+        ]
+    },{
+        "question": "Jaki aspekt w modelu wiązania metalicznego wyjaśnia plastyczność metali:",
+        "answers": [
+            "brak elektronów wiążących oraz brak kierunkowości wiązania",
+            "nadmiar elektronów mobilnych, powodujących niestabilność wiązań",
+            "oddziaływanie gazu elektronowego i dodatnich rdzeni atomowych",
+            "plastyczność metali nie wynika z charakteru wiązania metalicznego"
+        ]
+    },{
+        "question": "Parametry sieciowe (a = b ≠ c)  i kątowe (α = β = 90°; γ = 120°) odnoszą się do:",
+        "answers": [
+            "Komórki elementarnej układu heksagonalnego",
+            "Komórki elementarnej układu rombowego",
+            "Komórki elementarnej układu romboedrycznego",
+            "Komórki elementarnej układu trójskośnego ", 
+            "Komórki elementarnej układu tetragonalnego"
+        ]
+    },{
+        "question": "Pojęcie liczba koordynacyjna dotyczy:",
+        "answers": [
+            "Liczby najbliższych i równoodległych atomów od dowolnego atomu w strukturze kryształu",
+            "Liczby atomów  przypadających na komórkę elementarną w danej strukturze krystalicznej",
+            "Liczby atomów  tworzących motyw przestrzenny typowy dla struktury danego kryształu",
+            "Liczby atomów  otaczających lukę oktaedryczną w danej strukturze krystalicznej"
+        ]
+    },{
+        "question": "Minimalna odległość pomiędzy atomami w strukturze RSC (A1) wynosi:",
+        "answers": [
+            "Połowę przekątnej ściany komórki elementarnej ( a√2/2 )",
+            "Długość przekątnej przestrzennej komórki elementarnej ( a√3)",
+            "Długość krawędzi komórki elementarnej ( a )",
+            "Połowę przekątnej przestrzennej komórki elementarnej ( a√3/2)", 
+            "Długość przekątnej ściany komórki elementarnej ( a√2 )"
+        ]
+    },{
+        "question": "Stosunek osiowy  (c/a) w strukturze HZ jest najwyższy i najniższy odpowiednio dla:",
+        "answers": [
+            "Zn, Be",
+            "Cd, Be",
+            "Zr, Ti",
+            "Mg, Co"
+        ]
+    },{
+        "question": "Ułożenie płaszczyzn o najgęstszym wypełnieniu atomami w strukturze HZ (A3) występuje:",
+        "answers": [
+            "w sekwencji  ABABAB...",
+            "w sekwencji  ABCABCABC... ",
+            "w sekwencji  ABACABAC… ",
+            "w sekwencji  ABCBABCB…"
+        ]
+    },{
+        "question": "Luki tetraedryczne w komórce elementarnej sieci RPC (A2) znajdują się:",
+        "answers": [
+            "na ścianach, w połowie długości krawędzi i odległości (1/4) ich długości ",
+            "na krawędziach sześcianu, w odległości (1/4) ich długości od naroża",
+            "w połowie, tzn. w (1/2) długości krawędzi sześcianu",
+            "na ścianach, w (1/4) długości ich przekątnej od naroża", 
+            "w objętości sześcianu, w (1/4) długości przekątnej sześcianu od naroża"
+        ]
+    },{
+        "question": "Czym różnią się dyslokacje krawędziowa i śrubowa?",
+        "answers": [
+            "kątem pomiędzy wektorem Burgersa a kierunkiem linii dyslokacji ",
+            "wielkością  wektorów Burgersa obu dyslokacji",
+            "charakterem linii dyslokacji - krawędziowa prostoliniowa a śrubowa skręcona",
+            "przebiegiem dysocjacji na dyslokacje częściowe", 
+            "sposobem przemieszczania się linii dyslokacji wzdłuż płaszczyzny poślizgu"
+        ]
+    },{
+        "question": "Odległość na jaką rozsuną się dyslokacje częściowe zależy od:",
+        "answers": [
+            "energii błędu ułożenia materiału",
+            "rodzaju dyslokacji (krawędziowa, śrubowa, mieszana)",
+            "naprężenia stycznego w płaszczyźnie poślizgu",
+            "orientacji linii dyslokacji na płaszczyźnie", 
+            "stopnia zapełnienie płaszczyzny atomami"
+        ]
+    },{
+        "question": "Która granica nie jest utworzona z układów dyslokacji?",
+        "answers": [
+            "niekoherentna granica m/fazowa",
+            "nisko-kątowa granica skręcenia",
+            "niekoherentna granica bliźniacza ",
+            "pół-koherentna granica m/fazowa ", 
+            "granica nachylenia/daszkowa"
+        ]
+    },{
+        "question": "Wartość teoretycznego naprężenia ścinającego określa wzór:",
+        "answers": [
+            "τm= G/2π ",
+            "τs= σ cosφ cosλ",
+            "τm= E/2π",
+            "τs= σ sinφ sinλ", 
+            "τs = G γ"
+        ]
+    },{
+        "question": "Który z wymienionych jest systemem poślizgu w strukturze RPC (A2) ?",
+        "answers": [
+            "{112} <111>",
+            "{110} <100>",
+            "{111} <110>",
+            "{110} <110>", 
+            "{111} <112>"
+        ]
+    },{
+        "question": "Które z poniższych twierdzeń dotyczących poślizgu i bliźniakowania jest nieprawdziwe?",
+        "answers": [
+            "wszystkie wymienione stwierdzania są prawdziwe ",
+            "podczas poślizgu orientacja obu przemieszczających się części kryształu nie zmienia się",
+            "po utworzeniu się bliźniaka jego orientacja jest różna od orientacji osnowy",
+            "w trakcie poślizgu przemieszczenie atomów zachodzi tylko w jednej płaszczyźnie", 
+            "przy bliźniakowaniu przemieszczenie atomów zachodzi w szeregu płaszczyznach równoległych"
+        ]
+    },{
+        "question": "Które ze stwierdzeń dotyczących 2-go etapu rekrystalizacji jest fałszywe?*",
+        "answers": [
+            "maleje energia powierzchniowa granic",
+            "zachodzi normalny i ciągły rozrost ziaren",
+            "rozrost ziaren nasila się ze wzrostem temperatury",
+            "występuje anormalny i nieciągły rozrost ziaren", 
+            "wielkość ziaren rośnie jednakowo w całej objętości"
+        ]
+    },{
+        "question": "Które stwierdzenie dotyczące metody Rockwella jest nieprawdziwe?",
+        "answers": [
+            "zastosowane obciążenie zależy od rodzaju użytego wgłębnika ",
+            "wykorzystywanych jest kilka skal twardości, w tym dwie podstawowe",
+            "stosowane skale umożliwiają porównanie wyników pomiarów ",
+            "metoda stosuje dwa podstawowe rodzaje wgłębników", 
+            "pomiar twardości polega na dwustopniowym obciążaniu próbki"
+        ]
+    },{
+        "question": "Obecność międzywęzłowych atomów węgla zwiększa twardość:",
+        "answers": [
+            "perlitu ",
+            "martenzytu",
+            "austenitu",
+            "cementytu", 
+            "ledeburytu"
+        ]
+    },{
+        "question": "Wytrzymałość na rozciąganie to naprężenie, które odpowiada:",
+        "answers": [
+            "największej sile podczas próby rozciągania",
+            "zerwaniu i utracie spójności materiału",
+            "tworzeniu się mikropęknięć w materiale",
+            "rozpoczęciu płynięcia plastycznego ", 
+            "zakresowi stosowalności prawa Hooke’a"
+        ]
+    },{
+        "question": "Która z poniższych zależności stanowi prawo Hooke’a?",
+        "answers": [
+            "naprężenie jest odwrotnie proporcjonalne do odkształcenia",
+            "naprężenie jest wprost proporcjonalne do pierwiastka z odkształcenia",
+            "naprężenie jest wprost proporcjonalne do kwadratu odkształcenia",
+            "naprężenie jest odwrotnie proporcjonalne do kwadratu odkształcenia", 
+            "naprężenie jest wprost proporcjonalne do odkształcenia "
+        ]
+    },{
+        "question": "Które stwierdzenie NIE jest prawdziwe w przypadku umocnienia przez roztwory stałe?s",
+        "answers": [
+            "jest większe w przypadku atomów substytucyjnych aniżeli międzywęzłowych",
+            "wynika z oddziaływania pól naprężeń wokół atomów domieszek i dyslokacji",
+            "rośnie ze wzrostem różnicy w średnicach atomów domieszki i osnowy",
+            "powoduje wzrost granicy plastyczności i naprężenia krytycznego ~(√c)"
+        ]
+    },{
+        "question": "W głównej zależności określającej umocnienie przez rozdrobnienie ziarna granica plastyczności jest:",
+        "answers": [
+            "odwrotnie proporcjonalna do pierwiastka ze średnicy ziarna (~1/d1/2)",
+            "odwrotnie proporcjonalna do średnicy ziarna (~1/d)",
+            "wprost proporcjonalna do pierwiastka kwadratowego ze średnicy ziarna (~d1/2)",
+            "odwrotnie proporcjonalna do kwadratu średnicy ziarna (~1/d2)"
+        ]
+    },{
+        "question": "Mechanizm Friedela, oddziaływania dyslokacja-cząstka, NIE zachodzi w przypadku:",
+        "answers": [
+            "cząstek koherentnych z osnową",
+            "stosunkowo małych cząstek",
+            "cząstek miękkich i plastycznych ",
+            "cząstek niekoherentnych z osnową"
+        ]
+    },{
+        "question": "Która z wymienionych funkcji linii solwus w układach dwuskładnikowych jest nieprawdziwa:",
+        "answers": [
+            "oznacza zmienną rozpuszczalności w funkcji temperatury",
+            "określa zakres wydzielania z roztworu przesyconego",
+            "ogranicza obszar występowania jednorodnego roztworu stałego",
+            "oddziela obszar jednofazowy od dwufazowego ", 
+            "określa zakres wydzielania kryształów pierwotnych"
+        ]
+    },{
+        "question": "Która z wymienionych cech faz międzymetalicznych NIE jest prawdziwa:",
+        "answers": [
+            "stosunki ilościowe atomów składników wynikają z ich wartościowości",
+            "struktura krystaliczna faz m/metalicznych różna od struktury każdego ze składników",
+            "uporządkowane rozmieszczenie atomów w sieci krystalicznej",
+            "przewaga wiązania metalicznego między atomami składników"
+        ]
+    },{
+        "question": "W nadeutektycznym stopie pierwiastków A i B z brakiem rozpuszczalności B w A i ograniczoną rozpuszczalnością  A w B mikrostruktura składa się z:",
+        "answers": [
+            "pierwotnych kryształów B i eutektyki (α+B) ",
+            "pierwotnych kryształów α i eutektyki (α+B)",
+            "pierwotnych kryształów A i eutektyki (A+β)",
+            "pierwotnych kryształów β i eutektyki (A+β)", 
+            "pierwotnych kryształów α i eutektyki (α+β)"
+        ]
+    },{
+        "question": "Zero zmienny punkt reakcji obejmującej fazę stałą i ciekłą zmieniające się w pojedynczą fazę stałą podczas chłodzenia określa się jako:",
+        "answers": [
+            "punkt perytektyczny",
+            "punkt eutektyczny",
+            "punkt perytektoidalny",
+            "punkt eutektoidalny"
+        ]
+    },{
+        "question": "Pierwiastki tworzące stop zwany spiżem to:",
+        "answers": [
+            "miedź, cyna, cynk i ołów",
+            "miedź, chrom i żelazo",
+            "miedź, cynk, nikiel i krzem",
+            "miedź, nikiel, mangan ", 
+            "miedź, magnez, aluminium"
+        ]
+    },{
+        "question": "Pierwiastki stopowe w utwardzanych stopach aluminium stanowią:",
+        "answers": [
+            "miedź / magnez / mangan",
+            "nikiel / żelazo / chrom",
+            "krzem / miedź / nikiel",
+            "żelazo / cynk / cyna ", 
+            "miedź / cyna / ołów"
+        ]
+    },{
+        "question": "Który z wymienionych elementów jest jednakowy dla odmian alotropowych (Fe-α)  i (Fe-δ) ?",
+        "answers": [
+            "typ sieci krystalicznej",
+            "parametr sieciowy",
+            "zakres temperatur występowania",
+            "zakres rozpuszczalności węgla", 
+            "żaden nie jest jednakowy"
+        ]
+    },{
+        "question": "W jakim zakresie stężeń zachodzi przemiana perytektyczna na wykresie Fe-Fe3C ?",
+        "answers": [
+            "0.09%  –  0.53%",
+            "0.09%  –  0.17%",
+            "0.02%  –  0.77%",
+            "0.02%  –  2.11%", 
+            "0.17%  –  0.53%"
+        ]
+    },{
+        "question": "Cementyt trzeciorzędowy wydziela się podczas chłodzenia:",
+        "answers": [
+            "z ferrytu na skutek malejącej rozpuszczalności węgla",
+            "bezpośrednio z roztworu ciekłego – w wyniku przemiany eutektycznej",
+            "z austenitu na skutek malejącej rozpuszczalności węgla",
+            "w wyniku przemiany eutektoidalnej"
+        ]
+    },{
+        "question": "Głównym wymogiem dla stali o dobrej spawalności jest:",
+        "answers": [
+            "niska zawartość węgla",
+            "dodatek pierwiastków stopowych",
+            "zastosowanie wyżarzania normalizującego",
+            "struktura drobnoziarnista ", 
+            "zastosowanie wyżarzania zupełnego"
+        ]
+    },{
+        "question": "Żeliwa połowiczne to takie w których:",
+        "answers": [
+            "przełom jest lokalnie szary (grafit) a miejscami biały (cementyt)",
+            "osnowa składa się w połowie z ferrytu i w połowie z perlitu",
+            "wytop przeprowadzono przy zwiększonym udziale złomu stalowego",
+            "przy powierzchni występuje żeliwo białe a rdzeń stanowi żeliwo szare"
+        ]
+    },{
+        "question": "Która z wymienionych struktur jest produktem chłodzenia z piecem?",
+        "answers": [
+            "gruby perlit ",
+            "troostyt",
+            "bainit",
+            "martenzyt", 
+            "drobny perlit"
+        ]
+    },{
+        "question": "Perlit z ultra drobnym ziarnem to inaczej:",
+        "answers": [
+            "troostyt",
+            "bainit górny",
+            "steadyt",
+            "sorbit ", 
+            "sferoidyt"
+        ]
+    },{
+        "question": "Po której obróbce cieplnej NIE powstanie sferoidyt?",
+        "answers": [
+            "bardzo wolne chłodzenie austenitu ",
+            "długotrwałe wyżarzanie perlitu",
+            "bardzo wysokie odpuszczanie martenzytu",
+            "może powstać po każdej z tych obróbek"
+        ]
+    },{
+        "question": "Z czego wynika tetragonalność martenzytu:",
+        "answers": [
+            "przesycenia węglem struktury martenzytu ",
+            "naprężeń strukturalnych po przebudowie sieci",
+            "naprężeń termicznych po gwałtownym chłodzeniu",
+            "specyficznej budowy struktury martenzytu"
+        ]
+    },{
+        "question": "Które pierwiastki NIE tworzą węglików w stalach stopowych?",
+        "answers": [
+            "wszystkie wymienione tworzą",
+            "mangan i chrom",
+            "wanad i wolfram",
+            "kobalt i nikiel", 
+            "molibden i tytan"
+        ]
+    },{
+        "question": "Który pierwiastek stopowy NIE zapewnia stali nierdzewnej struktury ferrytycznej?",
+        "answers": [
+            "krzem",
+            "molibden",
+            "chrom",
+            "aluminium", 
+            "azot"
+        ]
+    },{
+        "question": "Z jakiej obróbki wynikają wysokie własności wytrzymałościowe stali maraging?",
+        "answers": [
+            "hartowanie i starzenie",
+            "hartowanie i wysokie odpuszczanie",
+            "odkształcenie i rekrystalizacja",
+            "hartowanie i niskie odpuszczanie", 
+            "przesycanie i umocnienie odkształceniowe"
+        ]
+    }
+]
