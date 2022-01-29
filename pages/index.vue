@@ -14,39 +14,61 @@
 
 <script setup>
 import questions from '~/public/questions.json'
-const randomizer = array => array.map(a => ({ sort: Math.random(), value: a })).sort((a, b) => a.sort - b.sort).map(a => a.value)
+let randomizedQuestions = shuffle(questions)
+//const randomizer = array => array.map(a => ({ sort: Math.random(), value: a })).sort((a, b) => a.sort - b.sort).map(a => a.value)
+function shuffle(array) {
+  let currentIndex = array.length,  randomIndex;
+  while (currentIndex != 0) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+    [array[currentIndex], array[randomIndex]] = [
+      array[randomIndex], array[currentIndex]];
+  }
+
+  return array;
+}
+
 
 const points = ref(0)
-const stage = ref(1)
+const stage = ref(0)
 
 const currentQuestion = ref({
     question: null,
     goodAnswerId: null,
-    answers: null
+    answers: null,
+    answered: null
 })
 
 function getQuestion(){
+    stage.value++
     if(process.client && document.querySelector('.question')){
         document.querySelector('.question').classList.remove("clickable")
     }
-    let randomQuestion = questions[stage.value-1] //questions[Math.floor(Math.random() * questions.length)]
+
+    let randomQuestion = randomizedQuestions[stage.value-1] //questions[Math.floor(Math.random() * questions.length)]
     let goodAnswer = randomQuestion.answers[0]
-    currentQuestion.value.answers = randomizer(randomQuestion.answers)
+    currentQuestion.value.answers = shuffle(randomQuestion.answers)
     currentQuestion.value.question = randomQuestion.question
     currentQuestion.value.goodAnswerId = currentQuestion.value.answers.findIndex((answer)=> answer === goodAnswer)
+    currentQuestion.value.answered = false
 }
 getQuestion()
 
 const checkAnswer = (index, event) => {
     if(index === currentQuestion.value.goodAnswerId){
         event.target.classList.add("good")
-        points.value++
-        stage.value++
+        if(!currentQuestion.value.answered){
+            points.value++
+            currentQuestion.value.answered = true
+        }
         currentQuestion.value.question = `✔ ${currentQuestion.value.question} [ ⏭ ]`
         document.querySelector('.question').classList.add("clickable")
     }else{
+        if(!currentQuestion.value.answered){
+            points.value--
+            currentQuestion.value.answered = true
+        }
         event.target.classList.add("bad")
-        points.value--
     }
 }
 </script>
