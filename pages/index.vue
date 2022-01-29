@@ -29,7 +29,7 @@ function getQuestion(){
     if(process.client && document.querySelector('.question')){
         document.querySelector('.question').classList.remove("clickable")
     }
-    let randomQuestion = questions[Math.floor(Math.random() * questions.length)]
+    let randomQuestion = questions[stage.value-1] //questions[Math.floor(Math.random() * questions.length)]
     let goodAnswer = randomQuestion.answers[0]
     currentQuestion.value.answers = randomizer(randomQuestion.answers)
     currentQuestion.value.question = randomQuestion.question
