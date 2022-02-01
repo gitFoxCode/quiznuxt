@@ -249,9 +249,9 @@
     },{
         "question": "Ledeburyt przemieniony jest to:",
         "answers": [
+            "mieszanina eutektoidalna perlitu i cementytu",
             "mieszanina eutektyczna perlitu i cementytu",
             "mieszanina eutektoidalna ferrytu i cementytu",
-            "mieszanina eutektoidalna perlitu i cementytu",
             "mieszanina eutektyczna austenitu i cementytu", 
             "mieszanina eutektyczna austenitu i ferrytu"
         ]
