@@ -1087,10 +1087,10 @@
             "Długość przekątnej ściany komórki elementarnej ( a√2 )"
         ]
     },{
-        "question": "Stosunek osiowy  (c/a) w strukturze HZ jest najwyższy i najniższy odpowiednio dla:",
+        "question": "Stosunek osiowy  (c/a) w strukturze HZ jest najwyższy i najniższy odpowiednio dla*:",
         "answers": [
-            "Zn, Be",
             "Cd, Be",
+            "Zn, Be",
             "Zr, Ti",
             "Mg, Co"
         ]
