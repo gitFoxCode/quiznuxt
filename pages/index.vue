@@ -65,10 +65,14 @@ const checkAnswer = (index, event) => {
         document.querySelector('.question').classList.add("clickable")
     }else{
         if(!currentQuestion.value.answered){
-            points.value--
+            //points.value--
+            if(process.client && document.querySelector('.question')){
+                document.querySelectorAll('button')[currentQuestion.value.goodAnswerId].classList.add("good")
+            }
             currentQuestion.value.answered = true
         }
         event.target.classList.add("bad")
+        
     }
 }
 </script>
