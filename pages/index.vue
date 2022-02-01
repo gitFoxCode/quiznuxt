@@ -68,6 +68,8 @@ const checkAnswer = (index, event) => {
             //points.value--
             if(process.client && document.querySelector('.question')){
                 document.querySelectorAll('button')[currentQuestion.value.goodAnswerId].classList.add("good")
+                currentQuestion.value.question = `😥 ${currentQuestion.value.question} [ ⏭ ]`
+                document.querySelector('.question').classList.add("clickable")
             }
             currentQuestion.value.answered = true
         }
