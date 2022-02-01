@@ -215,9 +215,9 @@
         "question": "W podeutektycznym stopie pierwiastków A i B o ograniczonej wzajemnej rozpuszczalności mikrostruktura składa się z:",
         "answers": [
             "pierwotnych kryształów α i eutektyki (α+β)",
-            "pierwotnych kryształów β i eutektyki (α+β) ",
+            "pierwotnych kryształów β i eutektyki (α+β)",
             "pierwotnych kryształów A i eutektyki (A+β)",
-            "pierwotnych kryształów α i eutektyki (α+B)", 
+            "pierwotnych kryształów A i eutektyki (A+B)", 
             "pierwotnych kryształów α i eutektyki (α+B)"
         ]
     },{
@@ -640,9 +640,9 @@
     },{
         "question": "Wyżarzanie stali w temperaturze 30–50C powyżej linii Ac3 oraz chłodzenie z piecem to:",
         "answers": [
+            "wyżarzanie zupełne",
             "wyżarzanie normalizujące",
             "wyżarzanie ujednorodniające",
-            "wyżarzanie zupełne",
             "wyżarzanie niezupełne", 
             "wyżarzanie zmiękczające"
         ]
