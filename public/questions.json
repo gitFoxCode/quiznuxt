@@ -415,10 +415,10 @@
     },{
         "question": "W przypadku którego rodzaju dyslokacji płaszczyzna poślizgu NIE jest jednoznacznie określona?",
         "answers": [
+            "dla wszystkich jest jednoznacznie określona",
             "dyslokacji krawędziowej",
             "dyslokacji śrubowej",
-            "dyslokacji mieszanej",
-            "dla wszystkich jest jednoznacznie określona"
+            "dyslokacji mieszanej"
         ]
     },{
         "question": "Błąd ułożenia powstały przez wstawienie części płaszczyzny atomowej {111} to:",
